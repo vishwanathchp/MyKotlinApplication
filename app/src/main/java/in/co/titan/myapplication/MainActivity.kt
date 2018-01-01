@@ -13,6 +13,7 @@ import android.view.MenuItem
 import android.widget.EditText
 import android.widget.Toast
 // Testing the GitHub Push
+//Testing the GitHUb pull
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
